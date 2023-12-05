@@ -1,0 +1,19 @@
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: beige;
+    gap: 10px;
+}
+
+.button:hover{
+    background-color: azure;
+    font-size: 120%;
+}
+
+.image {
+    width: 24px;
+    height: 24px;
+}
